@@ -1,1 +1,4 @@
-In this i had make Chess game in python and data structure used in this is  2d list 
+## Chess Game Using PyGame
+
+This chess game is built using the famous pygame library of python which uses 2d Arrays implementation.
+[Chess Game]()
